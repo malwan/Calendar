@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Calendar Feed</title>
+</head>
+<body>
+    <h1>Welcome to My Calendar</h1>
+    <p>This page hosts the ICS file for Outlook subscription.</p>
+    <a href="MastericsDownload Calendar</a>
+</body>
+</html>
