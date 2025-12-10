@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Calendar Feed</title>
+</head>
+<body>
+    <h1>Welcome to My Calendar</h1>
+    <p>This page hosts the ICS file for Outlook subscription.</p>
+    <a href="MastericsDownload Calendar</a>
+</body>
+</html>
+
+name: Deploy Calendar to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master  # Trigger when master branch changes
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+        with:
+          ref: master
+
+      - name: Copy ICS file
+        run: |
+          mkdir -p public
+          cp MasterSchedule.ics public/
+
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Update gh-pages content
+        run: |
+          cp public/MasterSchedule.ics gh-pages/
+          cd gh-pages
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add MasterSchedule.ics
+          git commit -m "Update calendar file from master"
+          git push origin gh-pages
