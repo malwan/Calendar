@@ -239,42 +239,27 @@ DTSTART;TZID=America/Chicago:20260113T070000
 DTEND;TZID=America/Chicago:20260113T170000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inpatient Team / Fabry &amp; Maurer &amp; Ortman
-DTSTART;TZID=America/Chicago:20260114T070000
-DTEND;TZID=America/Chicago:20260114T170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient Team / Fabry &amp; Maurer &amp; Ortman
-DTSTART;TZID=America/Chicago:20260115T070000
-DTEND;TZID=America/Chicago:20260115T170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient Team / Fabry &amp; Maurer &amp; Ortman
-DTSTART;TZID=America/Chicago:20260116T070000
-DTEND;TZID=America/Chicago:20260116T170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer
+SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Novak
 DTSTART;TZID=America/Chicago:20260119T070000
 DTEND;TZID=America/Chicago:20260119T170000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Schaeve
+SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Novak
 DTSTART;TZID=America/Chicago:20260120T070000
 DTEND;TZID=America/Chicago:20260120T170000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Schaeve
+SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Novak
 DTSTART;TZID=America/Chicago:20260121T070000
 DTEND;TZID=America/Chicago:20260121T170000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Schaeve
+SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Novak
 DTSTART;TZID=America/Chicago:20260122T070000
 DTEND;TZID=America/Chicago:20260122T170000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer
+SUMMARY:Inpatient Team / Atzenhoefer &amp; Maurer &amp; Novak
 DTSTART;TZID=America/Chicago:20260123T070000
 DTEND;TZID=America/Chicago:20260123T170000
 END:VEVENT
