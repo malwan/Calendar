@@ -1,818 +1,704 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//MCP Schedule Export//
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260108
-DTEND;VALUE=DATE:20260109
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260115
-DTEND;VALUE=DATE:20260116
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260116
-DTEND;VALUE=DATE:20260117
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260117
-DTEND;VALUE=DATE:20260118
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260118
-DTEND;VALUE=DATE:20260119
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260130
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260214
-DTEND;VALUE=DATE:20260215
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260219
-DTEND;VALUE=DATE:20260220
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260226
-DTEND;VALUE=DATE:20260227
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260305
-DTEND;VALUE=DATE:20260306
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260311
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260323
-DTEND;VALUE=DATE:20260324
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260407
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Atzenhoefer
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Atzenhoefer\; O
- riginal cell: MA\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Atzenhoefer
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Rotation\; Provider: Atzenhoefer\; Original cell: Atzenh
- oefer\; Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260108T080000
-DTEND;TZID=America/Chicago:20260108T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic PM — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260113T120000
-DTEND;TZID=America/Chicago:20260113T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic PM\; Provider: Atzenhoefer\; Original cell: A
- tzenhoefer\; Source: Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260115T080000
-DTEND;TZID=America/Chicago:20260115T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260116T070000
-DTEND;TZID=America/Chicago:20260116T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260117T070000
-DTEND;TZID=America/Chicago:20260117T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260118T070000
-DTEND;TZID=America/Chicago:20260118T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260119T070000
-DTEND;TZID=America/Chicago:20260119T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260120T070000
-DTEND;TZID=America/Chicago:20260120T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260121T070000
-DTEND;TZID=America/Chicago:20260121T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260122T070000
-DTEND;TZID=America/Chicago:20260122T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260124T080000
-DTEND;TZID=America/Chicago:20260124T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260125T080000
-DTEND;TZID=America/Chicago:20260125T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260129T080000
-DTEND;TZID=America/Chicago:20260129T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260205T080000
-DTEND;TZID=America/Chicago:20260205T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260209T070000
-DTEND;TZID=America/Chicago:20260209T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260210T070000
-DTEND;TZID=America/Chicago:20260210T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260211T070000
-DTEND;TZID=America/Chicago:20260211T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260212T070000
-DTEND;TZID=America/Chicago:20260212T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260213T070000
-DTEND;TZID=America/Chicago:20260213T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260214T070000
-DTEND;TZID=America/Chicago:20260214T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer | MERGED: Atzenhoefer | Atzenhoefer\; Source: Inpatient MD\;Diag
- nostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260215T070000
-DTEND;TZID=America/Chicago:20260215T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer | MERGED: Atzenhoefer | Atzenhoefer\; Source: Inpatient MD\;Diag
- nostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260219T080000
-DTEND;TZID=America/Chicago:20260219T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260224T080000
-DTEND;TZID=America/Chicago:20260224T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260226T080000
-DTEND;TZID=America/Chicago:20260226T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260305T080000
-DTEND;TZID=America/Chicago:20260305T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260310T080000
-DTEND;TZID=America/Chicago:20260310T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260312T080000
-DTEND;TZID=America/Chicago:20260312T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260319T080000
-DTEND;TZID=America/Chicago:20260319T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260320T080000
-DTEND;TZID=America/Chicago:20260320T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260324T080000
-DTEND;TZID=America/Chicago:20260324T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260326T080000
-DTEND;TZID=America/Chicago:20260326T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260409T080000
-DTEND;TZID=America/Chicago:20260409T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260416T080000
-DTEND;TZID=America/Chicago:20260416T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260423T080000
-DTEND;TZID=America/Chicago:20260423T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260428T080000
-DTEND;TZID=America/Chicago:20260428T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260430T080000
-DTEND;TZID=America/Chicago:20260430T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260504T070000
-DTEND;TZID=America/Chicago:20260504T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260505T070000
-DTEND;TZID=America/Chicago:20260505T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260506T070000
-DTEND;TZID=America/Chicago:20260506T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260507T070000
-DTEND;TZID=America/Chicago:20260507T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260508T070000
-DTEND;TZID=America/Chicago:20260508T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260509T070000
-DTEND;TZID=America/Chicago:20260509T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer | MERGED: Atzenhoefer | Atzenhoefer\; Source: Inpatient MD\;Diag
- nostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260510T070000
-DTEND;TZID=America/Chicago:20260510T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer | MERGED: Atzenhoefer | Atzenhoefer\; Source: Inpatient MD\;Diag
- nostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260514T080000
-DTEND;TZID=America/Chicago:20260514T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260515T080000
-DTEND;TZID=America/Chicago:20260515T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260518T080000
-DTEND;TZID=America/Chicago:20260518T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260521T080000
-DTEND;TZID=America/Chicago:20260521T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260528T080000
-DTEND;TZID=America/Chicago:20260528T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260601T070000
-DTEND;TZID=America/Chicago:20260601T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260602T070000
-DTEND;TZID=America/Chicago:20260602T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260603T070000
-DTEND;TZID=America/Chicago:20260603T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260604T070000
-DTEND;TZID=America/Chicago:20260604T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260605T070000
-DTEND;TZID=America/Chicago:20260605T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260606T070000
-DTEND;TZID=America/Chicago:20260606T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer | MERGED: Atzenhoefer | Atzenhoefer\; Source: Inpatient MD\;Diag
- nostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260607T070000
-DTEND;TZID=America/Chicago:20260607T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Atzenhoefer\; Original cell: At
- zenhoefer | MERGED: Atzenhoefer | Atzenhoefer\; Source: Inpatient MD\;Diag
- nostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260611T080000
-DTEND;TZID=America/Chicago:20260611T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260618T080000
-DTEND;TZID=America/Chicago:20260618T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260625T080000
-DTEND;TZID=America/Chicago:20260625T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Atzenhoefer
-DTSTART;TZID=America/Chicago:20260702T080000
-DTEND;TZID=America/Chicago:20260702T170000
-DTSTAMP:20251222T185724Z
-DESCRIPTION:Role: Diagnostic\; Provider: Atzenhoefer\; Original cell: MERG
- ED: Atzenhoefer | Atzenhoefer\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MCP Schedule Export//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atzenhoefer
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5594823311700113605@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260108T170000
+DTEND;TZID=America/Chicago:20260109T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1129011566156089496@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260108T080000
+DTEND;TZID=America/Chicago:20260108T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:155720884327759836@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260113T120000
+DTEND;TZID=America/Chicago:20260113T170000
+SUMMARY:Diagnostic PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7431159420680613328@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260115T170000
+DTEND;TZID=America/Chicago:20260116T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4355623130426053259@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260115T080000
+DTEND;TZID=America/Chicago:20260115T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5733246613203212689@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260116T070000
+DTEND;TZID=America/Chicago:20260116T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5226789581399792493@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260116T170000
+DTEND;TZID=America/Chicago:20260117T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2291940075314591473@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260117T070000
+DTEND;TZID=America/Chicago:20260117T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4853239715541845064@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260117T170000
+DTEND;TZID=America/Chicago:20260118T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1791378514861724773@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260118T070000
+DTEND;TZID=America/Chicago:20260118T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2960096457986487152@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260118T170000
+DTEND;TZID=America/Chicago:20260119T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:6905674215085428692@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260119T070000
+DTEND;TZID=America/Chicago:20260119T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8855185805602585456@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260120T070000
+DTEND;TZID=America/Chicago:20260120T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:991107189362838596@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260121T070000
+DTEND;TZID=America/Chicago:20260121T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4754410863286360940@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260122T070000
+DTEND;TZID=America/Chicago:20260122T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3677683840055059038@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260129T170000
+DTEND;TZID=America/Chicago:20260130T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3014245075469336431@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260129T080000
+DTEND;TZID=America/Chicago:20260129T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8324512713601760861@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260205T170000
+DTEND;TZID=America/Chicago:20260206T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8518094961481111092@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260205T080000
+DTEND;TZID=America/Chicago:20260205T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1580474820628683061@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260209T070000
+DTEND;TZID=America/Chicago:20260209T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5948214420864165284@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260210T070000
+DTEND;TZID=America/Chicago:20260210T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8934560086270497414@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260211T070000
+DTEND;TZID=America/Chicago:20260211T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5103464986759377141@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260212T070000
+DTEND;TZID=America/Chicago:20260212T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8122553461499011235@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260213T070000
+DTEND;TZID=America/Chicago:20260213T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2384648021653047876@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260213T170000
+DTEND;TZID=America/Chicago:20260214T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2095526190115125046@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260214T070000
+DTEND;TZID=America/Chicago:20260214T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:6168908873083594209@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260214T170000
+DTEND;TZID=America/Chicago:20260215T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5195567975727263548@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260215T070000
+DTEND;TZID=America/Chicago:20260215T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5135363746904897041@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260215T170000
+DTEND;TZID=America/Chicago:20260216T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8201569842724663150@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260219T170000
+DTEND;TZID=America/Chicago:20260220T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1384597101071684205@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260219T080000
+DTEND;TZID=America/Chicago:20260219T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4727702653530525470@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260224T080000
+DTEND;TZID=America/Chicago:20260224T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4800817237062906379@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260226T170000
+DTEND;TZID=America/Chicago:20260227T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1372023195114468118@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260226T080000
+DTEND;TZID=America/Chicago:20260226T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8515286069700146723@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260305T170000
+DTEND;TZID=America/Chicago:20260306T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7041710561831393255@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260305T080000
+DTEND;TZID=America/Chicago:20260305T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1420045794379999457@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260310T170000
+DTEND;TZID=America/Chicago:20260311T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:45998307868296554@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260310T080000
+DTEND;TZID=America/Chicago:20260310T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:6642008701870543570@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260312T170000
+DTEND;TZID=America/Chicago:20260313T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3940987608801593714@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260312T080000
+DTEND;TZID=America/Chicago:20260312T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2713799779291137676@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260319T170000
+DTEND;TZID=America/Chicago:20260320T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7214777328772093487@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260319T080000
+DTEND;TZID=America/Chicago:20260319T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2793887712115769488@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260320T080000
+DTEND;TZID=America/Chicago:20260320T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:630506122558063268@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260323T170000
+DTEND;TZID=America/Chicago:20260324T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5013691872659766441@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260324T080000
+DTEND;TZID=America/Chicago:20260324T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5768697147031504699@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260326T170000
+DTEND;TZID=America/Chicago:20260327T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3992244194699061637@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260326T080000
+DTEND;TZID=America/Chicago:20260326T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:6100228484676312859@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Reading Coverage: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1542008918559507354@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260409T170000
+DTEND;TZID=America/Chicago:20260410T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7501716093506858285@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260409T080000
+DTEND;TZID=America/Chicago:20260409T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8502231665767873871@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260416T080000
+DTEND;TZID=America/Chicago:20260416T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:757826333622083576@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260423T170000
+DTEND;TZID=America/Chicago:20260424T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3632347560627617199@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260423T080000
+DTEND;TZID=America/Chicago:20260423T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4737840737829224583@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260428T080000
+DTEND;TZID=America/Chicago:20260428T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3775874199637547276@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260430T170000
+DTEND;TZID=America/Chicago:20260501T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3225623701317361888@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260430T080000
+DTEND;TZID=America/Chicago:20260430T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8490607330270933522@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260504T070000
+DTEND;TZID=America/Chicago:20260504T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3289340225519832828@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260505T070000
+DTEND;TZID=America/Chicago:20260505T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5969823146766742602@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260506T070000
+DTEND;TZID=America/Chicago:20260506T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4922136603587632158@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260507T070000
+DTEND;TZID=America/Chicago:20260507T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1423037313710259570@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260508T070000
+DTEND;TZID=America/Chicago:20260508T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7984573463212899258@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260508T170000
+DTEND;TZID=America/Chicago:20260509T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5323376498917068625@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260509T070000
+DTEND;TZID=America/Chicago:20260509T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:6306833134794215331@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260509T170000
+DTEND;TZID=America/Chicago:20260510T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:944130823558589314@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260510T070000
+DTEND;TZID=America/Chicago:20260510T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4126134508351221281@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260510T170000
+DTEND;TZID=America/Chicago:20260511T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3393918670174287940@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260514T170000
+DTEND;TZID=America/Chicago:20260515T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2184030732366024498@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260514T080000
+DTEND;TZID=America/Chicago:20260514T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:262844446454413979@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260515T080000
+DTEND;TZID=America/Chicago:20260515T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:503087059826712056@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260518T080000
+DTEND;TZID=America/Chicago:20260518T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:1783157583728690444@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260521T080000
+DTEND;TZID=America/Chicago:20260521T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3679896754589704700@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Reading Coverage: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7458388682857496016@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Reading Coverage: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3125782003426873084@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260528T170000
+DTEND;TZID=America/Chicago:20260529T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:35858616249989956@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260528T080000
+DTEND;TZID=America/Chicago:20260528T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:437631806348549526@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260601T070000
+DTEND;TZID=America/Chicago:20260601T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:2526954817894413339@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260602T070000
+DTEND;TZID=America/Chicago:20260602T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8012754533113582908@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260603T070000
+DTEND;TZID=America/Chicago:20260603T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4754502679266678994@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260604T070000
+DTEND;TZID=America/Chicago:20260604T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5495905626788445743@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260605T070000
+DTEND;TZID=America/Chicago:20260605T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:3858802128904103883@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260605T170000
+DTEND;TZID=America/Chicago:20260606T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7810014408935142687@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260606T070000
+DTEND;TZID=America/Chicago:20260606T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5542067499468870955@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260606T170000
+DTEND;TZID=America/Chicago:20260607T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7891364955666348943@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260607T070000
+DTEND;TZID=America/Chicago:20260607T170000
+SUMMARY:Inpatient MD: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:518356250305860495@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260607T170000
+DTEND;TZID=America/Chicago:20260608T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5613708207479218026@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260611T170000
+DTEND;TZID=America/Chicago:20260612T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4523029483137103015@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260611T080000
+DTEND;TZID=America/Chicago:20260611T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8748571415852209274@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260618T170000
+DTEND;TZID=America/Chicago:20260619T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8177650851220359563@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260618T080000
+DTEND;TZID=America/Chicago:20260618T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7418604961325207548@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260622T170000
+DTEND;TZID=America/Chicago:20260623T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:614856887876817349@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260625T170000
+DTEND;TZID=America/Chicago:20260626T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:6739153559791036645@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260625T080000
+DTEND;TZID=America/Chicago:20260625T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5782357648594349389@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260702T170000
+DTEND;TZID=America/Chicago:20260703T070000
+SUMMARY:Gen-Call: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:8517013036919454873@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260702T080000
+DTEND;TZID=America/Chicago:20260702T170000
+SUMMARY:Diagnostic AM/PM: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:7277994377576845086@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260219
+SUMMARY:Vacation/Off: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:5786932345382854994@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260407
+SUMMARY:Vacation/Off: Atzenhoefer
+END:VEVENT
+BEGIN:VEVENT
+UID:4109553200264765962@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260526
+SUMMARY:Vacation/Off: Atzenhoefer
+END:VEVENT
+END:VCALENDAR

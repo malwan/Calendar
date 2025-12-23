@@ -1,1403 +1,1264 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//MCP Schedule Export//
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260105
-DTEND;VALUE=DATE:20260106
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260106
-DTEND;VALUE=DATE:20260107
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260112
-DTEND;VALUE=DATE:20260113
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260120
-DTEND;VALUE=DATE:20260121
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260124
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260124
-DTEND;VALUE=DATE:20260125
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260127
-DTEND;VALUE=DATE:20260128
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260203
-DTEND;VALUE=DATE:20260204
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260210
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260210
-DTEND;VALUE=DATE:20260211
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260214
-DTEND;VALUE=DATE:20260215
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260218
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260225
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260225
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260303
-DTEND;VALUE=DATE:20260304
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260311
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260317
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260318
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260323
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260323
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260325
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260325
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260407
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: MA\, KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading coverage JAM/SJ only — Kashyap
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Reading coverage JAM/SJ only\; Provider: Kashyap\; Origi
- nal cell: KK\; Source: Reading coverage JAM/SJ only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotation — Kashyap
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Rotation\; Provider: Kashyap\; Original cell: Kashyap\; 
- Source: Rotation
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Cath — Kashyap
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Night Cath\; Provider: Kashyap\; Original cell: Kashyap\
- ; Source: Night Cath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260105T080000
-DTEND;TZID=America/Chicago:20260105T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260106T080000
-DTEND;TZID=America/Chicago:20260106T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260109T080000
-DTEND;TZID=America/Chicago:20260109T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260112T080000
-DTEND;TZID=America/Chicago:20260112T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260113T080000
-DTEND;TZID=America/Chicago:20260113T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260116T080000
-DTEND;TZID=America/Chicago:20260116T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260119T080000
-DTEND;TZID=America/Chicago:20260119T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260120T080000
-DTEND;TZID=America/Chicago:20260120T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260123T080000
-DTEND;TZID=America/Chicago:20260123T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260126T080000
-DTEND;TZID=America/Chicago:20260126T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260127T080000
-DTEND;TZID=America/Chicago:20260127T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260130T080000
-DTEND;TZID=America/Chicago:20260130T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260202T080000
-DTEND;TZID=America/Chicago:20260202T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260203T080000
-DTEND;TZID=America/Chicago:20260203T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260206T080000
-DTEND;TZID=America/Chicago:20260206T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260209T080000
-DTEND;TZID=America/Chicago:20260209T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260210T080000
-DTEND;TZID=America/Chicago:20260210T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260213T080000
-DTEND;TZID=America/Chicago:20260213T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260216T080000
-DTEND;TZID=America/Chicago:20260216T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260217T080000
-DTEND;TZID=America/Chicago:20260217T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260218T080000
-DTEND;TZID=America/Chicago:20260218T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260220T080000
-DTEND;TZID=America/Chicago:20260220T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260223T080000
-DTEND;TZID=America/Chicago:20260223T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260224T080000
-DTEND;TZID=America/Chicago:20260224T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260227T080000
-DTEND;TZID=America/Chicago:20260227T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260302T080000
-DTEND;TZID=America/Chicago:20260302T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260303T080000
-DTEND;TZID=America/Chicago:20260303T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260306T080000
-DTEND;TZID=America/Chicago:20260306T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260309T080000
-DTEND;TZID=America/Chicago:20260309T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260310T080000
-DTEND;TZID=America/Chicago:20260310T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260313T080000
-DTEND;TZID=America/Chicago:20260313T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260316T070000
-DTEND;TZID=America/Chicago:20260316T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | Kashyap\; Source: Inpatient MD\;CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260317T070000
-DTEND;TZID=America/Chicago:20260317T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260318T070000
-DTEND;TZID=America/Chicago:20260318T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260319T070000
-DTEND;TZID=America/Chicago:20260319T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260320T070000
-DTEND;TZID=America/Chicago:20260320T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260321T070000
-DTEND;TZID=America/Chicago:20260321T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;Diagnostic AM+Diagno
- stic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260322T070000
-DTEND;TZID=America/Chicago:20260322T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;Diagnostic AM+Diagno
- stic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260324T080000
-DTEND;TZID=America/Chicago:20260324T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260327T080000
-DTEND;TZID=America/Chicago:20260327T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260330T080000
-DTEND;TZID=America/Chicago:20260330T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260331T080000
-DTEND;TZID=America/Chicago:20260331T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260413T080000
-DTEND;TZID=America/Chicago:20260413T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260414T080000
-DTEND;TZID=America/Chicago:20260414T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260417T080000
-DTEND;TZID=America/Chicago:20260417T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260420T080000
-DTEND;TZID=America/Chicago:20260420T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260421T080000
-DTEND;TZID=America/Chicago:20260421T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260424T080000
-DTEND;TZID=America/Chicago:20260424T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260427T080000
-DTEND;TZID=America/Chicago:20260427T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260428T080000
-DTEND;TZID=America/Chicago:20260428T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260504T080000
-DTEND;TZID=America/Chicago:20260504T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260505T080000
-DTEND;TZID=America/Chicago:20260505T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260511T080000
-DTEND;TZID=America/Chicago:20260511T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260512T080000
-DTEND;TZID=America/Chicago:20260512T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260518T080000
-DTEND;TZID=America/Chicago:20260518T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260519T080000
-DTEND;TZID=America/Chicago:20260519T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260522T080000
-DTEND;TZID=America/Chicago:20260522T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260523T070000
-DTEND;TZID=America/Chicago:20260523T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;Diagnostic AM+Diagno
- stic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260524T070000
-DTEND;TZID=America/Chicago:20260524T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;Diagnostic AM+Diagno
- stic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260525T070000
-DTEND;TZID=America/Chicago:20260525T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | Merged from: Kashyap \; Kashyap | Merged from: Kashyap \; Kashyap\; So
- urce: Inpatient MD\;CATH AM\;CATH PM\;Diagnostic AM\;Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260526T080000
-DTEND;TZID=America/Chicago:20260526T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260601T080000
-DTEND;TZID=America/Chicago:20260601T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260602T080000
-DTEND;TZID=America/Chicago:20260602T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260608T080000
-DTEND;TZID=America/Chicago:20260608T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260609T080000
-DTEND;TZID=America/Chicago:20260609T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260615T080000
-DTEND;TZID=America/Chicago:20260615T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260616T080000
-DTEND;TZID=America/Chicago:20260616T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260619T080000
-DTEND;TZID=America/Chicago:20260619T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH AM — Kashyap
-DTSTART;TZID=America/Chicago:20260622T080000
-DTEND;TZID=America/Chicago:20260622T120000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH AM\; Provider: Kashyap\; Original cell: Kashyap\; S
- ource: CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CATH — Kashyap
-DTSTART;TZID=America/Chicago:20260623T080000
-DTEND;TZID=America/Chicago:20260623T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: CATH\; Provider: Kashyap\; Original cell: MERGED: Kashya
- p | Kashyap\; Source: CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostic — Kashyap
-DTSTART;TZID=America/Chicago:20260626T080000
-DTEND;TZID=America/Chicago:20260626T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Diagnostic\; Provider: Kashyap\; Original cell: MERGED: 
- Kashyap | Kashyap\; Source: Diagnostic AM+Diagnostic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260629T070000
-DTEND;TZID=America/Chicago:20260629T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | Kashyap\; Source: Inpatient MD\;CATH AM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260630T070000
-DTEND;TZID=America/Chicago:20260630T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;CATH AM+CATH PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260701T070000
-DTEND;TZID=America/Chicago:20260701T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260702T070000
-DTEND;TZID=America/Chicago:20260702T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260703T070000
-DTEND;TZID=America/Chicago:20260703T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p\; Source: Inpatient MD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260704T070000
-DTEND;TZID=America/Chicago:20260704T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;Diagnostic AM+Diagno
- stic PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inpatient MD — Kashyap
-DTSTART;TZID=America/Chicago:20260705T070000
-DTEND;TZID=America/Chicago:20260705T170000
-DTSTAMP:20251222T185725Z
-DESCRIPTION:Role: Inpatient MD\; Provider: Kashyap\; Original cell: Kashya
- p | MERGED: Kashyap | Kashyap\; Source: Inpatient MD\;Diagnostic AM+Diagno
- stic PM
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MCP Schedule Export//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kashyap
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3171646131666976866@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260105T170000
+DTEND;TZID=America/Chicago:20260106T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1707621848065251825@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260105T080000
+DTEND;TZID=America/Chicago:20260105T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:9165766217612610627@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260106T170000
+DTEND;TZID=America/Chicago:20260107T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8563765649861209283@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260106T080000
+DTEND;TZID=America/Chicago:20260106T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1431574930903251200@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260109T080000
+DTEND;TZID=America/Chicago:20260109T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5558546326438018284@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260112T170000
+DTEND;TZID=America/Chicago:20260113T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7019139068194284087@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260112T080000
+DTEND;TZID=America/Chicago:20260112T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5544063328469361406@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260113T080000
+DTEND;TZID=America/Chicago:20260113T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1366693018486990771@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260116T080000
+DTEND;TZID=America/Chicago:20260116T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6330118754512136164@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260119T170000
+DTEND;TZID=America/Chicago:20260120T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6369791069814581023@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260119T080000
+DTEND;TZID=America/Chicago:20260119T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2243238219863363061@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260120T170000
+DTEND;TZID=America/Chicago:20260121T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:914580212463551820@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260120T080000
+DTEND;TZID=America/Chicago:20260120T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4954279595827247711@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260123T170000
+DTEND;TZID=America/Chicago:20260124T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7768960889796053204@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260123T080000
+DTEND;TZID=America/Chicago:20260123T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3446941824860580456@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260124T170000
+DTEND;TZID=America/Chicago:20260125T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3142629827647552538@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260125T170000
+DTEND;TZID=America/Chicago:20260126T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1221292483477212766@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260126T080000
+DTEND;TZID=America/Chicago:20260126T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6088992236224275368@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260127T170000
+DTEND;TZID=America/Chicago:20260128T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8509893755334580170@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260127T080000
+DTEND;TZID=America/Chicago:20260127T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5882297008716055875@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260130T080000
+DTEND;TZID=America/Chicago:20260130T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2484068350300430304@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260202T080000
+DTEND;TZID=America/Chicago:20260202T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3987033549919602776@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260203T170000
+DTEND;TZID=America/Chicago:20260204T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7348777100616594688@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260203T080000
+DTEND;TZID=America/Chicago:20260203T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3492373505171863035@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260206T080000
+DTEND;TZID=America/Chicago:20260206T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1185141274312795303@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260209T170000
+DTEND;TZID=America/Chicago:20260210T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3289616183367987932@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260209T080000
+DTEND;TZID=America/Chicago:20260209T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3119650199174284207@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260210T170000
+DTEND;TZID=America/Chicago:20260211T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5299668953172978959@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260210T080000
+DTEND;TZID=America/Chicago:20260210T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4759900945762604848@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260213T170000
+DTEND;TZID=America/Chicago:20260214T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5925765314582738954@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260213T080000
+DTEND;TZID=America/Chicago:20260213T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:908693779673628106@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260214T170000
+DTEND;TZID=America/Chicago:20260215T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1637849267215433048@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260215T170000
+DTEND;TZID=America/Chicago:20260216T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8914887645249004041@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260216T080000
+DTEND;TZID=America/Chicago:20260216T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1518826721145173784@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260217T170000
+DTEND;TZID=America/Chicago:20260218T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2841287191992531023@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260217T080000
+DTEND;TZID=America/Chicago:20260217T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8539176312755311073@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260218T170000
+DTEND;TZID=America/Chicago:20260219T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3515288639047290248@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260218T080000
+DTEND;TZID=America/Chicago:20260218T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5261596203742057362@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260220T080000
+DTEND;TZID=America/Chicago:20260220T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3562580601346522480@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260223T080000
+DTEND;TZID=America/Chicago:20260223T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4491393550127924357@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260224T170000
+DTEND;TZID=America/Chicago:20260225T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6426147049744420825@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260224T170000
+DTEND;TZID=America/Chicago:20260225T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4002333218600384912@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260224T080000
+DTEND;TZID=America/Chicago:20260224T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3644411039693244421@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260227T080000
+DTEND;TZID=America/Chicago:20260227T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5416901251756550088@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260302T080000
+DTEND;TZID=America/Chicago:20260302T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1239060475909176484@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260303T170000
+DTEND;TZID=America/Chicago:20260304T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6461174490065607911@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260303T080000
+DTEND;TZID=America/Chicago:20260303T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7162105983368495345@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260306T080000
+DTEND;TZID=America/Chicago:20260306T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7414185404667960186@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260309T080000
+DTEND;TZID=America/Chicago:20260309T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4972660226299643674@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260310T170000
+DTEND;TZID=America/Chicago:20260311T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1645881369756805007@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260310T080000
+DTEND;TZID=America/Chicago:20260310T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4399328055060463903@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260313T080000
+DTEND;TZID=America/Chicago:20260313T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5525431912649048823@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260316T070000
+DTEND;TZID=America/Chicago:20260316T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1732364034517202908@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260316T170000
+DTEND;TZID=America/Chicago:20260317T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:556237185649985253@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260316T080000
+DTEND;TZID=America/Chicago:20260316T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7599459912700295684@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260317T070000
+DTEND;TZID=America/Chicago:20260317T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3806871343793086323@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260317T170000
+DTEND;TZID=America/Chicago:20260318T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2370679109426384996@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260317T080000
+DTEND;TZID=America/Chicago:20260317T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8582996278023732544@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260318T070000
+DTEND;TZID=America/Chicago:20260318T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7916325295333397988@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260319T070000
+DTEND;TZID=America/Chicago:20260319T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8324486494619469590@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260320T070000
+DTEND;TZID=America/Chicago:20260320T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1882571769015410846@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260320T170000
+DTEND;TZID=America/Chicago:20260321T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:633180362851767827@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260320T170000
+DTEND;TZID=America/Chicago:20260321T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:879717239725561872@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260321T070000
+DTEND;TZID=America/Chicago:20260321T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7985711819107875163@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260321T170000
+DTEND;TZID=America/Chicago:20260322T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7705965541081896167@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260321T170000
+DTEND;TZID=America/Chicago:20260322T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7272855109221227211@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260322T070000
+DTEND;TZID=America/Chicago:20260322T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1709591816065638289@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260322T170000
+DTEND;TZID=America/Chicago:20260323T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:9058543843195037235@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260322T170000
+DTEND;TZID=America/Chicago:20260323T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6628793428304206740@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260324T170000
+DTEND;TZID=America/Chicago:20260325T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6336910787088645635@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260324T170000
+DTEND;TZID=America/Chicago:20260325T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:634107742388228958@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260324T080000
+DTEND;TZID=America/Chicago:20260324T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2342441528346957892@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260327T170000
+DTEND;TZID=America/Chicago:20260328T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7035965004731300820@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260327T080000
+DTEND;TZID=America/Chicago:20260327T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2451060129945290355@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260328T170000
+DTEND;TZID=America/Chicago:20260329T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:142366577444845684@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260329T170000
+DTEND;TZID=America/Chicago:20260330T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6264328438024478125@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260330T170000
+DTEND;TZID=America/Chicago:20260331T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:87926083552780308@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260330T080000
+DTEND;TZID=America/Chicago:20260330T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1369311297457728523@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260331T170000
+DTEND;TZID=America/Chicago:20260401T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5861642972959108422@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260331T080000
+DTEND;TZID=America/Chicago:20260331T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3026977889850542900@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4874909337064129194@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260413T080000
+DTEND;TZID=America/Chicago:20260413T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5219154630180207732@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260414T170000
+DTEND;TZID=America/Chicago:20260415T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2556600712582664907@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260414T080000
+DTEND;TZID=America/Chicago:20260414T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8692294502830554139@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260417T080000
+DTEND;TZID=America/Chicago:20260417T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6105729574313285132@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260420T080000
+DTEND;TZID=America/Chicago:20260420T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6942357075286137039@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260421T170000
+DTEND;TZID=America/Chicago:20260422T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2373863385899496196@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260421T080000
+DTEND;TZID=America/Chicago:20260421T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4817394723813835758@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260424T080000
+DTEND;TZID=America/Chicago:20260424T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1568229268049290795@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260427T170000
+DTEND;TZID=America/Chicago:20260428T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4998020909862967746@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260427T080000
+DTEND;TZID=America/Chicago:20260427T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4581329790890016924@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260428T170000
+DTEND;TZID=America/Chicago:20260429T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5886525549775255557@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260428T170000
+DTEND;TZID=America/Chicago:20260429T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6278063231443203662@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260428T080000
+DTEND;TZID=America/Chicago:20260428T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:362897542913892998@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4198268739355667746@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:218922156427441771@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260501T170000
+DTEND;TZID=America/Chicago:20260502T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4572301702705109095@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4386265386096080578@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260502T170000
+DTEND;TZID=America/Chicago:20260503T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1478300267535960830@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260503T170000
+DTEND;TZID=America/Chicago:20260504T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2120790693320897084@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1554694038175193997@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260504T080000
+DTEND;TZID=America/Chicago:20260504T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1920295464213499060@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260505T170000
+DTEND;TZID=America/Chicago:20260506T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1161995609448642377@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1509279865139932045@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260505T080000
+DTEND;TZID=America/Chicago:20260505T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:350048274595819865@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2052332779467142846@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8256515073718370756@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3213602605166998957@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:9100856936464398931@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260511T080000
+DTEND;TZID=America/Chicago:20260511T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:811633064518200980@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260512T170000
+DTEND;TZID=America/Chicago:20260513T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2859523051562158886@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:9033983051608958113@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260512T080000
+DTEND;TZID=America/Chicago:20260512T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5260831629191263459@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5055600246793018699@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6283368921576387939@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260515T170000
+DTEND;TZID=America/Chicago:20260516T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7728699631744817108@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Reading Coverage: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7953766046027590999@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260516T170000
+DTEND;TZID=America/Chicago:20260517T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6618604880039669776@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260517T170000
+DTEND;TZID=America/Chicago:20260518T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2048180554220806367@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260518T170000
+DTEND;TZID=America/Chicago:20260519T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8590240843141240782@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260518T170000
+DTEND;TZID=America/Chicago:20260519T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1973802664648949077@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260518T080000
+DTEND;TZID=America/Chicago:20260518T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7957219717073007572@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260519T170000
+DTEND;TZID=America/Chicago:20260520T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3894000061057929681@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260519T080000
+DTEND;TZID=America/Chicago:20260519T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8213392662585580645@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260522T170000
+DTEND;TZID=America/Chicago:20260523T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:528974958165180045@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260522T170000
+DTEND;TZID=America/Chicago:20260523T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3538068088122140646@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260522T080000
+DTEND;TZID=America/Chicago:20260522T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5950624970823002156@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260523T070000
+DTEND;TZID=America/Chicago:20260523T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:479861648768951332@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260523T170000
+DTEND;TZID=America/Chicago:20260524T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1603007138918116400@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260523T170000
+DTEND;TZID=America/Chicago:20260524T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5173828522798184714@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260524T070000
+DTEND;TZID=America/Chicago:20260524T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7619298990075524328@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260524T170000
+DTEND;TZID=America/Chicago:20260525T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6788086821817208998@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260524T170000
+DTEND;TZID=America/Chicago:20260525T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8935055563107591726@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260525T070000
+DTEND;TZID=America/Chicago:20260525T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8388406449209334369@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260525T170000
+DTEND;TZID=America/Chicago:20260526T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1175887998492771189@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260525T170000
+DTEND;TZID=America/Chicago:20260526T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6957379744002077908@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260525T080000
+DTEND;TZID=America/Chicago:20260525T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7696150409201059064@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260525T080000
+DTEND;TZID=America/Chicago:20260525T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6463030056526830769@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260526T170000
+DTEND;TZID=America/Chicago:20260527T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8784954390812303481@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260526T080000
+DTEND;TZID=America/Chicago:20260526T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6429010362444990343@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260601T080000
+DTEND;TZID=America/Chicago:20260601T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2459399203414131858@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260602T170000
+DTEND;TZID=America/Chicago:20260603T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2652432286820281348@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260602T080000
+DTEND;TZID=America/Chicago:20260602T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2633935574313532568@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260608T170000
+DTEND;TZID=America/Chicago:20260609T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5518818781986839945@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260608T080000
+DTEND;TZID=America/Chicago:20260608T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7774344596472495184@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260609T170000
+DTEND;TZID=America/Chicago:20260610T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3579300933000196931@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260609T170000
+DTEND;TZID=America/Chicago:20260610T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4714843190709817468@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260609T080000
+DTEND;TZID=America/Chicago:20260609T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6554137680357998207@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260615T080000
+DTEND;TZID=America/Chicago:20260615T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:572199379657299899@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260616T170000
+DTEND;TZID=America/Chicago:20260617T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5851264411853291249@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260616T080000
+DTEND;TZID=America/Chicago:20260616T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:3752686176562942167@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260619T080000
+DTEND;TZID=America/Chicago:20260619T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1941881226784998071@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260622T080000
+DTEND;TZID=America/Chicago:20260622T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4491207749056231060@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260623T170000
+DTEND;TZID=America/Chicago:20260624T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7498205472320171089@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260623T080000
+DTEND;TZID=America/Chicago:20260623T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5671475980002767362@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260626T170000
+DTEND;TZID=America/Chicago:20260627T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5091859543148645090@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260626T080000
+DTEND;TZID=America/Chicago:20260626T170000
+SUMMARY:Diagnostic AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4501081624868217423@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260627T170000
+DTEND;TZID=America/Chicago:20260628T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:5614919652305739986@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260628T170000
+DTEND;TZID=America/Chicago:20260629T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2254133083419246579@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260629T070000
+DTEND;TZID=America/Chicago:20260629T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8937727506410088645@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260629T080000
+DTEND;TZID=America/Chicago:20260629T120000
+SUMMARY:CATH AM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7623479123376767782@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260630T070000
+DTEND;TZID=America/Chicago:20260630T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1103670175459779955@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260630T170000
+DTEND;TZID=America/Chicago:20260701T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8763702006270521243@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260630T080000
+DTEND;TZID=America/Chicago:20260630T170000
+SUMMARY:CATH AM/PM: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:502343712948650028@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260701T070000
+DTEND;TZID=America/Chicago:20260701T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8809945826223595533@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260702T070000
+DTEND;TZID=America/Chicago:20260702T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4163379661756634035@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260703T070000
+DTEND;TZID=America/Chicago:20260703T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7707728265160558978@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260703T170000
+DTEND;TZID=America/Chicago:20260704T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4310764117477141752@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260703T170000
+DTEND;TZID=America/Chicago:20260704T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6918185382559557581@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260704T070000
+DTEND;TZID=America/Chicago:20260704T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:7904324361712578024@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260704T170000
+DTEND;TZID=America/Chicago:20260705T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6242175319748445587@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260704T170000
+DTEND;TZID=America/Chicago:20260705T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:6699995019756598900@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260705T070000
+DTEND;TZID=America/Chicago:20260705T170000
+SUMMARY:Inpatient MD: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:1879263248557225785@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260705T170000
+DTEND;TZID=America/Chicago:20260706T070000
+SUMMARY:Gen-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:2436593988849928710@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;TZID=America/Chicago:20260705T170000
+DTEND;TZID=America/Chicago:20260706T070000
+SUMMARY:Cath-Call: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:4199304794628460831@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260408
+SUMMARY:Vacation/Off: Kashyap
+END:VEVENT
+BEGIN:VEVENT
+UID:8842107914952149309@mcp-schedule
+DTSTAMP:20251222T181818
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260518
+SUMMARY:Vacation/Off: Kashyap
+END:VEVENT
+END:VCALENDAR
