@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-04-28 17:05:04
+- **Timestamp:** 2026-04-29 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -35,7 +35,7 @@
 | Schaeve | 211 |
 | **MasterSchedule** | 1579 |
 
-Total leave/vacation events (across all sheets): 81
+Total leave/vacation events (across all sheets): 82
 
 ## Work header details
 
