@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-05-06 17:05:03
+- **Timestamp:** 2026-05-07 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -44,24 +44,24 @@ Total leave/vacation events (across all sheets): 106
 | Jan-June 2026 | G | `Inpatient APP2 PM` | `Inpatient APP2 PM` | alias | position drift; schema expected `Rotation` here |
 | Jan-June 2026 | H | `Rotation` | `Rotation` | alias | position drift; schema expected `CATH AM` here |
 | Jan-June 2026 | I | `CATH AM` | `CATH AM` | alias | position drift; schema expected `CATH PM` here |
-| Jan-June 2026 | K | `CATH PM` | `CATH PM` | alias | position drift; schema expected `Diagnostic AM` here |
-| Jan-June 2026 | L | `Night Cath` | `Night Cath` | alias | position drift; schema expected `Diagnostic PM` here |
-| Jan-June 2026 | M | `Diagnostic AM` | `Diagnostic AM` | alias | position drift; schema expected `CMH Clinic APP1 AM` here |
-| Jan-June 2026 | N | `Diagnostic PM` | `Diagnostic PM` | alias | position drift; schema expected `CMH Clinic APP1 PM` here |
-| Jan-June 2026 | O | `CMH Clinic APP1 AM` | `CMH Clinic APP1 AM` | alias | position drift; schema expected `CMH Clinic APP2 AM` here |
-| Jan-June 2026 | P | `CMH Clinic APP1 PM` | `CMH Clinic APP1 PM` | alias | position drift; schema expected `CMH Clinic APP2 PM` here |
-| Jan-June 2026 | Q | `CMH Clinic APP2 AM` | `CMH Clinic APP2 AM` | alias | position drift; schema expected `MD (AM) Available` here |
-| Jan-June 2026 | R | `CMH Clinic APP2 PM` | `CMH Clinic APP2 PM` | alias | position drift; schema expected `MD (PM) - Stress Echo (Running Test)` here |
-| Jan-June 2026 | S | `MD (AM) Available` | `MD (AM) Available` | alias | position drift; schema expected `BRK APP1 (0810-0850)` here |
-| Jan-June 2026 | T | `MD (PM) - Stress Echo (Running Test)` | `MD (PM) - Stress Echo (Running Test)` | alias | position drift; schema expected `BRK APP1 (1230-1600)` here |
-| Jan-June 2026 | U | `BRK APP1  (0810-0850)` | `BRK APP1 (0810-0850)` | alias | position drift; schema expected `Cath APP AM` here |
-| Jan-June 2026 | V | `BRK APP1  (1230-1600)` | `BRK APP1 (1230-1600)` | alias | position drift; schema expected `Cath APP PM` here |
-| Jan-June 2026 | W | `Cath APP AM` | `Cath APP AM` | alias | position drift; schema expected `APP 7` here |
-| Jan-June 2026 | X | `Cath APP PM` | `Cath APP PM` | alias | position drift; schema expected `LCW` here |
-| Jan-June 2026 | Y | `APP 7` | `APP 7` | alias | position drift; schema expected `Admin` here |
-| Jan-June 2026 | Z | `LCW` | `LCW` | alias | position drift; schema expected `MA` here |
-| Jan-June 2026 | AA | `Admin` | `Admin` | alias |  |
-| Jan-June 2026 | AB | `MA` | `MA` | alias |  |
+| Jan-June 2026 | L | `CATH PM` | `CATH PM` | alias | position drift; schema expected `Diagnostic PM` here |
+| Jan-June 2026 | M | `Night Cath` | `Night Cath` | alias | position drift; schema expected `CMH Clinic APP1 AM` here |
+| Jan-June 2026 | N | `Diagnostic AM` | `Diagnostic AM` | alias | position drift; schema expected `CMH Clinic APP1 PM` here |
+| Jan-June 2026 | O | `Diagnostic PM` | `Diagnostic PM` | alias | position drift; schema expected `CMH Clinic APP2 AM` here |
+| Jan-June 2026 | P | `CMH Clinic APP1 AM` | `CMH Clinic APP1 AM` | alias | position drift; schema expected `CMH Clinic APP2 PM` here |
+| Jan-June 2026 | Q | `CMH Clinic APP1 PM` | `CMH Clinic APP1 PM` | alias | position drift; schema expected `MD (AM) Available` here |
+| Jan-June 2026 | R | `CMH Clinic APP2 AM` | `CMH Clinic APP2 AM` | alias | position drift; schema expected `MD (PM) - Stress Echo (Running Test)` here |
+| Jan-June 2026 | S | `CMH Clinic APP2 PM` | `CMH Clinic APP2 PM` | alias | position drift; schema expected `BRK APP1 (0810-0850)` here |
+| Jan-June 2026 | T | `MD (AM) Available` | `MD (AM) Available` | alias | position drift; schema expected `BRK APP1 (1230-1600)` here |
+| Jan-June 2026 | U | `MD (PM) - Stress Echo (Running Test)` | `MD (PM) - Stress Echo (Running Test)` | alias | position drift; schema expected `Cath APP AM` here |
+| Jan-June 2026 | V | `BRK APP1  (0810-0850)` | `BRK APP1 (0810-0850)` | alias | position drift; schema expected `Cath APP PM` here |
+| Jan-June 2026 | W | `BRK APP1  (1230-1600)` | `BRK APP1 (1230-1600)` | alias | position drift; schema expected `APP 7` here |
+| Jan-June 2026 | X | `Cath APP AM` | `Cath APP AM` | alias | position drift; schema expected `LCW` here |
+| Jan-June 2026 | Y | `Cath APP PM` | `Cath APP PM` | alias | position drift; schema expected `Admin` here |
+| Jan-June 2026 | Z | `APP 7` | `APP 7` | alias | position drift; schema expected `MA` here |
+| Jan-June 2026 | AA | `LCW` | `LCW` | alias |  |
+| Jan-June 2026 | AB | `Admin` | `Admin` | alias |  |
+| Jan-June 2026 | AC | `MA` | `MA` | alias |  |
 | July-Dec 2026 | C | `MD` | `Inpatient MD` | alias |  |
 | July-Dec 2026 | D | `APP Inpatient 1` | `Inpatient APP1` | alias |  |
 | July-Dec 2026 | E | `APP Inpatient 2 AM` | `Inpatient APP2 AM` | alias |  |
@@ -81,19 +81,19 @@ Total leave/vacation events (across all sheets): 106
 
 | Sheet | Col | Raw | Expected | Status |
 |---|---|---|---|---|
-| Jan-June 2026 | AC | `NF` | `FI` | alias |
-| Jan-June 2026 | AD | `MH` | `SJ` | alias |
-| Jan-June 2026 | AE | `FI` | `KK` | alias |
-| Jan-June 2026 | AF | `SJ` | `SM` | alias |
-| Jan-June 2026 | AG | `KK` | `JAM` | alias |
-| Jan-June 2026 | AH | `SM` | `AB` | alias |
-| Jan-June 2026 | AI | `JAM` | `RM` | alias |
-| Jan-June 2026 | AJ | `AB` | `BN` | alias |
-| Jan-June 2026 | AK | `RM` | `EO` | alias |
-| Jan-June 2026 | AL | `BN` | `KO` | alias |
-| Jan-June 2026 | AM | `EO` | `MP` | alias |
-| Jan-June 2026 | AN | `KO` | `JS` | alias |
-| Jan-June 2026 | AO | `MP` | `` | alias |
-| Jan-June 2026 | AP | `JS` | `` | alias |
+| Jan-June 2026 | AD | `NF` | `SJ` | alias |
+| Jan-June 2026 | AE | `MH` | `KK` | alias |
+| Jan-June 2026 | AF | `FI` | `SM` | alias |
+| Jan-June 2026 | AG | `SJ` | `JAM` | alias |
+| Jan-June 2026 | AH | `KK` | `AB` | alias |
+| Jan-June 2026 | AI | `SM` | `RM` | alias |
+| Jan-June 2026 | AJ | `JAM` | `BN` | alias |
+| Jan-June 2026 | AK | `AB` | `EO` | alias |
+| Jan-June 2026 | AL | `RM` | `KO` | alias |
+| Jan-June 2026 | AM | `BN` | `MP` | alias |
+| Jan-June 2026 | AN | `EO` | `JS` | alias |
+| Jan-June 2026 | AO | `KO` | `` | alias |
+| Jan-June 2026 | AP | `MP` | `` | alias |
+| Jan-June 2026 | AQ | `JS` | `` | alias |
 | July-Dec 2026 | AA | `NF` | `` | alias |
 | July-Dec 2026 | AB | `MH` | `` | alias |
