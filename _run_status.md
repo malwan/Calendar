@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-05-13 17:05:04
+- **Timestamp:** 2026-05-14 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -27,10 +27,10 @@
 | Kashyap | 218 |
 | Marmer | 198 |
 | Martin | 171 |
-| Maurer | 248 |
+| Maurer | 255 |
 | Novak | 245 |
 | Organ | 92 |
-| Ortman | 257 |
+| Ortman | 264 |
 | Povlich | 249 |
 | Schaeve | 252 |
 | **MasterSchedule** | 1615 |
