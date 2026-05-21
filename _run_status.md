@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-05-20 17:05:03
+- **Timestamp:** 2026-05-21 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -9,7 +9,7 @@
 | Status | Count |
 |---|---|
 | exact | 0 |
-| alias (known variant) | 35 |
+| alias (known variant) | 34 |
 | fuzzy (similar, used as canonical) | 0 |
 | unknown (SKIPPED) | 0 |
 | missing (empty header) | 0 |
@@ -18,7 +18,7 @@
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 181 |
+| Atzenhoefer | 185 |
 | Brochtrup | 262 |
 | Fabry | 206 |
 | Hanrahan | 67 |
@@ -35,7 +35,7 @@
 | Schaeve | 279 |
 | **MasterSchedule** | 1636 |
 
-Total leave/vacation events (across all sheets): 110
+Total leave/vacation events (across all sheets): 114
 
 ## Work header details
 
@@ -58,10 +58,9 @@ Total leave/vacation events (across all sheets): 110
 | Jan-June 2026 | W | `BRK APP1  (1230-1600)` | `BRK APP1 (1230-1600)` | alias | position drift; schema expected `APP 7` here |
 | Jan-June 2026 | X | `Cath APP AM` | `Cath APP AM` | alias | position drift; schema expected `LCW` here |
 | Jan-June 2026 | Y | `Cath APP PM` | `Cath APP PM` | alias | position drift; schema expected `Admin` here |
-| Jan-June 2026 | Z | `APP 7` | `APP 7` | alias | position drift; schema expected `MA` here |
+| Jan-June 2026 | Z | `APP 7` | `APP 7` | alias |  |
 | Jan-June 2026 | AA | `LCW` | `LCW` | alias |  |
 | Jan-June 2026 | AB | `Admin` | `Admin` | alias |  |
-| Jan-June 2026 | AC | `MA` | `MA` | alias |  |
 | July-Dec 2026 | C | `MD` | `Inpatient MD` | alias |  |
 | July-Dec 2026 | D | `APP Inpatient 1` | `Inpatient APP1` | alias |  |
 | July-Dec 2026 | E | `APP Inpatient 2 AM` | `Inpatient APP2 AM` | alias |  |
@@ -81,6 +80,7 @@ Total leave/vacation events (across all sheets): 110
 
 | Sheet | Col | Raw | Expected | Status |
 |---|---|---|---|---|
+| Jan-June 2026 | AC | `MA` | `FI` | alias |
 | Jan-June 2026 | AD | `NF` | `SJ` | alias |
 | Jan-June 2026 | AE | `MH` | `KK` | alias |
 | Jan-June 2026 | AF | `FI` | `SM` | alias |
@@ -95,5 +95,6 @@ Total leave/vacation events (across all sheets): 110
 | Jan-June 2026 | AO | `KO` | `` | alias |
 | Jan-June 2026 | AP | `MP` | `` | alias |
 | Jan-June 2026 | AQ | `JS` | `` | alias |
+| July-Dec 2026 | Z | `MA` | `` | alias |
 | July-Dec 2026 | AA | `NF` | `` | alias |
 | July-Dec 2026 | AB | `MH` | `` | alias |
