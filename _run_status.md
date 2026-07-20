@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-07-19 17:05:04
+- **Timestamp:** 2026-07-20 17:05:04
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -22,10 +22,10 @@
 | Brochtrup | 261 |
 | Fabry | 207 |
 | Hanrahan | 67 |
-| Iqbal | 225 |
+| Iqbal | 226 |
 | Janus | 280 |
 | Kashyap | 316 |
-| Marmer | 202 |
+| Marmer | 201 |
 | Martin | 266 |
 | Maurer | 275 |
 | Novak | 270 |
