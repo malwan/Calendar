@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-08-10 17:05:03
+- **Timestamp:** 2026-08-11 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -22,7 +22,7 @@
 | Brochtrup | 261 |
 | Fabry | 207 |
 | Hanrahan | 67 |
-| Iqbal | 228 |
+| Iqbal | 231 |
 | Janus | 280 |
 | Kashyap | 316 |
 | Marmer | 204 |
@@ -35,7 +35,7 @@
 | Schaeve | 272 |
 | **MasterSchedule** | 1931 |
 
-Total leave/vacation events (across all sheets): 147
+Total leave/vacation events (across all sheets): 148
 
 ## Work header details
 
