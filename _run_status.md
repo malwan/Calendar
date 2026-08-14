@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-08-13 17:05:04
+- **Timestamp:** 2026-08-14 17:05:05
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
