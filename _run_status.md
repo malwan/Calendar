@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-08-14 17:05:05
+- **Timestamp:** 2026-08-15 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -21,7 +21,7 @@
 | Atzenhoefer | 187 |
 | Brochtrup | 261 |
 | Fabry | 207 |
-| Hanrahan | 67 |
+| Hanrahan | 66 |
 | Iqbal | 231 |
 | Janus | 280 |
 | Kashyap | 316 |
@@ -33,7 +33,7 @@
 | Ortman | 279 |
 | Povlich | 274 |
 | Schaeve | 272 |
-| **MasterSchedule** | 1931 |
+| **MasterSchedule** | 1930 |
 
 Total leave/vacation events (across all sheets): 148
 
