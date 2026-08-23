@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-08-22 17:05:03
+- **Timestamp:** 2026-08-23 17:05:03
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** Clean
 
@@ -25,7 +25,7 @@
 | Iqbal | 231 |
 | Janus | 280 |
 | Kashyap | 316 |
-| Marmer | 204 |
+| Marmer | 205 |
 | Martin | 266 |
 | Maurer | 274 |
 | Novak | 270 |
@@ -35,7 +35,7 @@
 | Schaeve | 272 |
 | **MasterSchedule** | 1930 |
 
-Total leave/vacation events (across all sheets): 148
+Total leave/vacation events (across all sheets): 149
 
 ## Work header details
 
