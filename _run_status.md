@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-08-31 17:05:04
+- **Timestamp:** 2026-09-01 17:05:04
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -19,7 +19,7 @@
 | Calendar | Events |
 |---|---|
 | Atzenhoefer | 187 |
-| Brochtrup | 227 |
+| Brochtrup | 226 |
 | Fabry | 207 |
 | Hanrahan | 67 |
 | Iqbal | 231 |
@@ -33,7 +33,7 @@
 | Ortman | 240 |
 | Povlich | 219 |
 | Schaeve | 251 |
-| **MasterSchedule** | 2159 |
+| **MasterSchedule** | 2158 |
 
 Total leave/vacation events (across all sheets): 150
 
