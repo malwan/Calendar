@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-01 17:05:04
+- **Timestamp:** 2026-09-02 17:05:04
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -18,15 +18,15 @@
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 187 |
+| Atzenhoefer | 195 |
 | Brochtrup | 226 |
-| Fabry | 207 |
-| Hanrahan | 67 |
-| Iqbal | 231 |
-| Janus | 280 |
-| Kashyap | 316 |
-| Marmer | 205 |
-| Martin | 266 |
+| Fabry | 217 |
+| Hanrahan | 71 |
+| Iqbal | 240 |
+| Janus | 284 |
+| Kashyap | 319 |
+| Marmer | 214 |
+| Martin | 270 |
 | Maurer | 244 |
 | Novak | 235 |
 | Organ | 85 |
@@ -36,6 +36,7 @@
 | **MasterSchedule** | 2158 |
 
 Total leave/vacation events (across all sheets): 150
+Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 51
 
 ## Work header details
 
