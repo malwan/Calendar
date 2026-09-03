@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-02 17:05:04
+- **Timestamp:** 2026-09-03 17:05:05
 - **Sheets processed:** Jan-June 2026, July-Dec 2026
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -9,8 +9,8 @@
 | Status | Count |
 |---|---|
 | exact | 0 |
-| alias (known variant) | 4 |
-| fuzzy (similar, used as canonical) | 9 |
+| alias (known variant) | 1 |
+| fuzzy (similar, used as canonical) | 14 |
 | unknown (SKIPPED) | 2 |
 | missing (empty header) | 0 |
 
@@ -42,12 +42,14 @@ Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 51
 
 | Sheet | Col | Raw header | Canonical | Status | Notes |
 |---|---|---|---|---|---|
-| July-Dec 2026 | C | `MD` | `Inpatient MD` | alias |  |
-| July-Dec 2026 | D | `APP 1 Inpatient` | `Inpatient APP1` | fuzzy | closest=`Inpatient APP1` conf=0.97 |
+| July-Dec 2026 | C | `MD*` | `Inpatient MD` | fuzzy | closest=`Inpatient MD` conf=0.80 |
+| July-Dec 2026 | D | `APP 1 Inpatient *` | `Inpatient APP1` | fuzzy | closest=`Inpatient APP1` conf=0.90 |
 | July-Dec 2026 | E | `APP 4 Inpatient AM` | `Inpatient APP2 AM` | fuzzy | closest=`Inpatient APP2 AM` conf=0.91 |
 | July-Dec 2026 | F | `APP 4 Inpatient  PM` | `Inpatient APP2 PM` | fuzzy | closest=`Inpatient APP2 PM` conf=0.91 |
-| July-Dec 2026 | H | `AM` | `CATH AM` | alias |  |
-| July-Dec 2026 | I | `PM` | `CATH PM` | alias |  |
+| July-Dec 2026 | G | `Rotation*` | `Rotation` | fuzzy | closest=`Rotation` conf=0.94 |
+| July-Dec 2026 | H | `AM*` | `CATH AM` | fuzzy | closest=`CATH AM` conf=0.80 |
+| July-Dec 2026 | I | `PM*` | `CATH PM` | fuzzy | closest=`CATH PM` conf=0.80 |
+| July-Dec 2026 | J | `Night Cath*` | `Night Cath` | fuzzy | closest=`Night Cath` conf=0.95 |
 | July-Dec 2026 | M | `APP 2 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 AM` conf=0.70 |
 | July-Dec 2026 | N | `APP 2 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 PM` conf=0.70 |
 | July-Dec 2026 | O | `APP 5 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP2 AM` conf=0.70 |
