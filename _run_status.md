@@ -1,42 +1,60 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-19 13:14:40
-- **Sheets processed:** Jan-June 2026, July-Dec 2026
-- **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
+- **Timestamp:** 2026-09-19 13:16:35
+- **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
+- **Status:** HEADER ANOMALIES + NEW PROVIDER(S) DISCOVERED: Kohl, Mauer, Marin — see _HEADER_ALERTS.txt
+
+> 🆕 **New provider discovered:** Kohl — first seen 2027-01-04 ([Jan-June 2027] column 'CMH Clinic APP1 AM'). Calendar `Kohl.ics` generated de novo. If this is a typo, blocklist it in `provider_registry.json`.
+> 🆕 **New provider discovered:** Mauer — first seen 2027-02-18 ([Jan-June 2027] column 'APP 7'). Calendar `Mauer.ics` generated de novo. If this is a typo, blocklist it in `provider_registry.json`.
+> 🆕 **New provider discovered:** Marin — first seen 2027-07-01 ([July-Dec 2027] column 'CATH PM'). Calendar `Marin.ics` generated de novo. If this is a typo, blocklist it in `provider_registry.json`.
 
 ## Header resolution counts
 
 | Status | Count |
 |---|---|
 | exact | 0 |
-| alias (known variant) | 7 |
-| fuzzy (similar, used as canonical) | 14 |
-| unknown (SKIPPED) | 2 |
+| alias (known variant) | 16 |
+| fuzzy (similar, used as canonical) | 34 |
+| unknown (SKIPPED) | 7 |
 | missing (empty header) | 0 |
 
 ## Event counts
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 196 |
-| Brochtrup | 226 |
-| Fabry | 217 |
-| Hanrahan | 71 |
-| Iqbal | 240 |
-| Janus | 284 |
-| Kashyap | 319 |
-| Marmer | 215 |
-| Martin | 270 |
-| Maurer | 244 |
-| Novak | 235 |
-| Organ | 85 |
-| Ortman | 240 |
-| Povlich | 219 |
-| Schaeve | 251 |
-| **MasterSchedule** | 2158 |
+| Atzenhoefer | 268 |
+| Brochtrup | 222 |
+| Fabry | 269 |
+| Hanrahan | 244 |
+| Iqbal | 321 |
+| Janus | 299 |
+| Kashyap | 341 |
+| Kohl | 121 |
+| Marin | 1 |
+| Marmer | 275 |
+| Martin | 277 |
+| Mauer | 2 |
+| Maurer | 214 |
+| Novak | 236 |
+| Organ | 66 |
+| Ortman | 216 |
+| Povlich | 213 |
+| Schaeve | 217 |
+| **MasterSchedule** | 2762 |
 
-Total leave/vacation events (across all sheets): 152
-Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 51
+Total leave/vacation events (across all sheets): 104
+Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 78
+
+## Dynamic provider roster (provider_registry.json)
+
+Discovered automatically from the schedule; treated like any
+hardcoded provider (own .ics + master inclusion).
+
+| Provider | Leave initials | First seen | First context |
+|---|---|---|---|
+| Kohl | *(not linked)* | 2027-01-04 | Jan-June 2027 / CMH Clinic APP1 AM |
+| Marin | *(not linked)* | 2027-07-01 | July-Dec 2027 / CATH PM |
+| Mauer | *(not linked)* | 2027-02-18 | Jan-June 2027 / APP 7 |
 
 ## Work header details
 
@@ -65,14 +83,45 @@ Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 51
 | July-Dec 2026 | X | `APP 6 Cath PM` | `CATH PM` | fuzzy | closest=`LCW` conf=0.70 |
 | July-Dec 2026 | Y | `LCW` | `LCW` | alias | position drift; schema expected `Admin` here |
 | July-Dec 2026 | Z | `Admin` | `Admin` | alias |  |
+| Jan-June 2027 | C | `MD` | `Inpatient MD` | alias |  |
+| Jan-June 2027 | D | `APP 1 Inpatient` | `Inpatient APP1` | fuzzy | closest=`Inpatient APP1` conf=0.97 |
+| Jan-June 2027 | E | `APP 4 Inpatient AM` | `Inpatient APP2 AM` | fuzzy | closest=`Inpatient APP2 AM` conf=0.91 |
+| Jan-June 2027 | F | `APP 4 Inpatient  PM` | `Inpatient APP2 PM` | fuzzy | closest=`Inpatient APP2 PM` conf=0.91 |
+| Jan-June 2027 | H | `AM` | `CATH AM` | alias |  |
+| Jan-June 2027 | I | `PM` | `CATH PM` | alias |  |
+| Jan-June 2027 | M | `APP 2 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 AM` conf=0.70 |
+| Jan-June 2027 | N | `APP 2 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 PM` conf=0.70 |
+| Jan-June 2027 | O | `APP 5 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP2 AM` conf=0.70 |
+| Jan-June 2027 | P | `APP 5 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP2 PM` conf=0.70 |
+| Jan-June 2027 | S | `APP 3 BRK Clinic` | `BRK APP1 (0810-0850)` | unknown | closest=`Inpatient APP1` conf=0.47 |
+| Jan-June 2027 | T | `APP 3 BRK Clinic` | `BRK APP1 (1230-1600)` | unknown | closest=`Inpatient APP1` conf=0.47 |
+| Jan-June 2027 | U | `APP 7         AM` | `APP 7` | fuzzy | closest=`Cath APP AM` conf=0.77 |
+| Jan-June 2027 | V | `APP 7         PM` | `APP 7` | fuzzy | closest=`Cath APP PM` conf=0.77 |
+| Jan-June 2027 | W | `Cath APP 6 AM` | `Cath APP AM` | fuzzy | closest=`APP 7` conf=0.92 |
+| Jan-June 2027 | X | `Cath APP 6 PM` | `Cath APP PM` | fuzzy | closest=`LCW` conf=0.92 |
+| Jan-June 2027 | Y | `LCW` | `LCW` | alias | position drift; schema expected `Admin` here |
+| Jan-June 2027 | Z | `Admin` | `Admin` | alias |  |
+| July-Dec 2027 | C | `MD` | `Inpatient MD` | alias |  |
+| July-Dec 2027 | D | `APP 1 Inpatient` | `Inpatient APP1` | fuzzy | closest=`Inpatient APP1` conf=0.97 |
+| July-Dec 2027 | E | `APP 4 Inpatient AM` | `Inpatient APP2 AM` | fuzzy | closest=`Inpatient APP2 AM` conf=0.91 |
+| July-Dec 2027 | F | `APP 4 Inpatient  PM` | `Inpatient APP2 PM` | fuzzy | closest=`Inpatient APP2 PM` conf=0.91 |
+| July-Dec 2027 | H | `AM` | `CATH AM` | alias |  |
+| July-Dec 2027 | I | `PM` | `CATH PM` | alias |  |
+| July-Dec 2027 | K | `0` | `Diagnostic AM` | unknown | closest=`BRK APP1 (0810-0850)` conf=0.10 |
+| July-Dec 2027 | M | `APP 2 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 AM` conf=0.70 |
+| July-Dec 2027 | N | `APP 2 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 PM` conf=0.70 |
+| July-Dec 2027 | O | `APP 5 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP2 AM` conf=0.70 |
+| July-Dec 2027 | P | `APP 5 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP2 PM` conf=0.70 |
+| July-Dec 2027 | S | `APP 3 BRK Clinic` | `BRK APP1 (0810-0850)` | unknown | closest=`Inpatient APP1` conf=0.47 |
+| July-Dec 2027 | T | `APP 3 BRK Clinic` | `BRK APP1 (1230-1600)` | unknown | closest=`Inpatient APP1` conf=0.47 |
+| July-Dec 2027 | U | `APP 7` | `APP 7` | alias | position drift; schema expected `Cath APP AM` here |
+| July-Dec 2027 | V | `Cath APP 6 AM` | `Cath APP AM` | fuzzy | closest=`Cath APP PM` conf=0.92 |
+| July-Dec 2027 | W | `Cath APP 6 PM` | `Cath APP PM` | fuzzy | closest=`APP 7` conf=0.92 |
 
 ## Leave header details
 
 | Sheet | Col | Raw | Expected | Status |
 |---|---|---|---|---|
-| Jan-June 2026 | Z | `MA` | `` | alias |
-| Jan-June 2026 | AA | `NF` | `` | alias |
-| Jan-June 2026 | AB | `MH` | `` | alias |
 | July-Dec 2026 | AA | `MA` | `` | alias |
 | July-Dec 2026 | AB | `NF` | `` | alias |
 | July-Dec 2026 | AC | `MH` | `FI` | alias |
@@ -88,3 +137,21 @@ Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 51
 | July-Dec 2026 | AM | `KO` | `MP` | alias |
 | July-Dec 2026 | AN | `MP` | `JS` | alias |
 | July-Dec 2026 | AO | `JS` | `` | alias |
+| Jan-June 2027 | AA | `MA` | `` | alias |
+| Jan-June 2027 | AB | `NF` | `` | alias |
+| Jan-June 2027 | AC | `MH` | `FI` | alias |
+| Jan-June 2027 | AD | `FI` | `SJ` | alias |
+| Jan-June 2027 | AE | `SJ` | `KK` | alias |
+| Jan-June 2027 | AF | `KK` | `SM` | alias |
+| Jan-June 2027 | AG | `SM` | `JAM` | alias |
+| Jan-June 2027 | AH | `JAM` | `AB` | alias |
+| Jan-June 2027 | AI | `AB` | `RM` | alias |
+| Jan-June 2027 | AJ | `RM` | `BN` | alias |
+| Jan-June 2027 | AK | `BN` | `EO` | alias |
+| Jan-June 2027 | AL | `EO` | `KO` | alias |
+| Jan-June 2027 | AM | `KO` | `MP` | alias |
+| Jan-June 2027 | AN | `MP` | `JS` | alias |
+| Jan-June 2027 | AO | `JS` | `` | alias |
+| July-Dec 2027 | Z | `MA` | `` | alias |
+| July-Dec 2027 | AA | `NF` | `` | alias |
+| July-Dec 2027 | AB | `MH` | `` | alias |
