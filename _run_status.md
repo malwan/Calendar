@@ -1,12 +1,8 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-19 13:16:35
+- **Timestamp:** 2026-09-19 17:05:06
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
-- **Status:** HEADER ANOMALIES + NEW PROVIDER(S) DISCOVERED: Kohl, Mauer, Marin — see _HEADER_ALERTS.txt
-
-> 🆕 **New provider discovered:** Kohl — first seen 2027-01-04 ([Jan-June 2027] column 'CMH Clinic APP1 AM'). Calendar `Kohl.ics` generated de novo. If this is a typo, blocklist it in `provider_registry.json`.
-> 🆕 **New provider discovered:** Mauer — first seen 2027-02-18 ([Jan-June 2027] column 'APP 7'). Calendar `Mauer.ics` generated de novo. If this is a typo, blocklist it in `provider_registry.json`.
-> 🆕 **New provider discovered:** Marin — first seen 2027-07-01 ([July-Dec 2027] column 'CATH PM'). Calendar `Marin.ics` generated de novo. If this is a typo, blocklist it in `provider_registry.json`.
+- **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
 ## Header resolution counts
 
