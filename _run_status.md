@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-20 17:05:05
+- **Timestamp:** 2026-09-21 17:05:05
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
