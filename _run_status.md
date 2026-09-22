@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-21 17:05:05
+- **Timestamp:** 2026-09-22 17:05:05
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -23,8 +23,8 @@
 | Fabry | 269 |
 | Hanrahan | 244 |
 | Iqbal | 321 |
-| Janus | 299 |
-| Kashyap | 341 |
+| Janus | 298 |
+| Kashyap | 340 |
 | Kohl | 121 |
 | Marin | 1 |
 | Marmer | 275 |
@@ -36,7 +36,7 @@
 | Ortman | 216 |
 | Povlich | 213 |
 | Schaeve | 217 |
-| **MasterSchedule** | 2762 |
+| **MasterSchedule** | 2760 |
 
 Total leave/vacation events (across all sheets): 104
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 78
