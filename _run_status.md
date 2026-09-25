@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-24 17:05:05
+- **Timestamp:** 2026-09-25 17:05:05
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -18,7 +18,7 @@
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 268 |
+| Atzenhoefer | 269 |
 | Brochtrup | 222 |
 | Fabry | 269 |
 | Hanrahan | 244 |
@@ -38,7 +38,7 @@
 | Schaeve | 217 |
 | **MasterSchedule** | 2760 |
 
-Total leave/vacation events (across all sheets): 104
+Total leave/vacation events (across all sheets): 105
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 78
 
 ## Dynamic provider roster (provider_registry.json)
