@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-09-30 17:05:05
+- **Timestamp:** 2026-10-01 17:05:08
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -28,7 +28,7 @@
 | Kohl | 121 |
 | Marin | 1 |
 | Marmer | 276 |
-| Martin | 279 |
+| Martin | 276 |
 | Mauer | 2 |
 | Maurer | 214 |
 | Novak | 236 |
@@ -36,7 +36,7 @@
 | Ortman | 216 |
 | Povlich | 213 |
 | Schaeve | 217 |
-| **MasterSchedule** | 2761 |
+| **MasterSchedule** | 2758 |
 
 Total leave/vacation events (across all sheets): 118
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 78
