@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-01 17:05:08
+- **Timestamp:** 2026-10-02 17:05:06
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -23,12 +23,12 @@
 | Fabry | 269 |
 | Hanrahan | 244 |
 | Iqbal | 322 |
-| Janus | 308 |
+| Janus | 307 |
 | Kashyap | 340 |
 | Kohl | 121 |
 | Marin | 1 |
 | Marmer | 276 |
-| Martin | 276 |
+| Martin | 277 |
 | Mauer | 2 |
 | Maurer | 214 |
 | Novak | 236 |
