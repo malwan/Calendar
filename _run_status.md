@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-08 17:05:05
+- **Timestamp:** 2026-10-09 17:05:05
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -116,21 +116,9 @@ hardcoded provider (own .ics + master inclusion).
 
 | Sheet | Col | Raw | Expected | Status |
 |---|---|---|---|---|
-| July-Dec 2026 | Y | `MA` | `` | alias |
-| July-Dec 2026 | Z | `NF` | `` | alias |
-| July-Dec 2026 | AA | `MH` | `` | alias |
-| July-Dec 2026 | AB | `FI` | `` | alias |
-| July-Dec 2026 | AC | `SJ` | `FI` | alias |
-| July-Dec 2026 | AD | `KK` | `SJ` | alias |
-| July-Dec 2026 | AE | `SM` | `KK` | alias |
-| July-Dec 2026 | AF | `JAM` | `SM` | alias |
-| July-Dec 2026 | AG | `AB` | `JAM` | alias |
-| July-Dec 2026 | AH | `RM` | `AB` | alias |
-| July-Dec 2026 | AI | `BN` | `RM` | alias |
-| July-Dec 2026 | AJ | `EO` | `BN` | alias |
-| July-Dec 2026 | AK | `KO` | `EO` | alias |
-| July-Dec 2026 | AL | `MP` | `KO` | alias |
-| July-Dec 2026 | AM | `JS` | `MP` | alias |
+| July-Dec 2026 | Z | `MA` | `` | alias |
+| July-Dec 2026 | AA | `NF` | `` | alias |
+| July-Dec 2026 | AB | `MH` | `` | alias |
 | Jan-June 2027 | AA | `MA` | `` | alias |
 | Jan-June 2027 | AB | `NF` | `` | alias |
 | Jan-June 2027 | AC | `MH` | `FI` | alias |
