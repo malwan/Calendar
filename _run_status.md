@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-12 17:05:06
+- **Timestamp:** 2026-10-13 17:05:06
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027
 - **Status:** HEADER ANOMALIES — see _HEADER_ALERTS.txt
 
@@ -9,8 +9,8 @@
 | Status | Count |
 |---|---|
 | exact | 0 |
-| alias (known variant) | 16 |
-| fuzzy (similar, used as canonical) | 32 |
+| alias (known variant) | 14 |
+| fuzzy (similar, used as canonical) | 28 |
 | unknown (SKIPPED) | 7 |
 | missing (empty header) | 0 |
 
@@ -18,17 +18,17 @@
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 271 |
+| Atzenhoefer | 210 |
 | Brochtrup | 207 |
-| Fabry | 272 |
-| Hanrahan | 244 |
-| Iqbal | 320 |
-| Janus | 299 |
-| Kashyap | 340 |
+| Fabry | 212 |
+| Hanrahan | 210 |
+| Iqbal | 262 |
+| Janus | 185 |
+| Kashyap | 204 |
 | Kohl | 121 |
-| Marin | 1 |
-| Marmer | 276 |
-| Martin | 277 |
+| Marin | 2 |
+| Marmer | 215 |
+| Martin | 167 |
 | Mauer | 2 |
 | Maurer | 206 |
 | Novak | 224 |
@@ -36,7 +36,7 @@
 | Ortman | 210 |
 | Povlich | 206 |
 | Schaeve | 205 |
-| **MasterSchedule** | 2754 |
+| **MasterSchedule** | 2121 |
 
 Total leave/vacation events (across all sheets): 117
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 78
@@ -58,25 +58,19 @@ hardcoded provider (own .ics + master inclusion).
 |---|---|---|---|---|---|
 | July-Dec 2026 | C | `MD*` | `Inpatient MD` | fuzzy | closest=`Inpatient MD` conf=0.80 |
 | July-Dec 2026 | D | `APP 1 Inpatient *` | `Inpatient APP1` | fuzzy | closest=`Inpatient APP1` conf=0.90 |
-| July-Dec 2026 | E | `Rotation*` | `Rotation` | fuzzy | closest=`Inpatient APP2 AM` conf=0.94 |
-| July-Dec 2026 | F | `AM*` | `CATH AM` | fuzzy | closest=`Inpatient APP2 PM` conf=0.80 |
-| July-Dec 2026 | G | `PM*` | `CATH PM` | fuzzy | closest=`Rotation` conf=0.80 |
-| July-Dec 2026 | H | `Night Cath*` | `Night Cath` | fuzzy | closest=`CATH AM` conf=0.95 |
-| July-Dec 2026 | J | `Diagnostic AM` | `Diagnostic AM` | alias | position drift; schema expected `Night Cath` here |
-| July-Dec 2026 | K | `Diagnostic PM` | `Diagnostic PM` | alias | position drift; schema expected `Diagnostic AM` here |
-| July-Dec 2026 | L | `APP 2 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`Diagnostic PM` conf=0.70 |
-| July-Dec 2026 | M | `APP 2 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 AM` conf=0.70 |
-| July-Dec 2026 | N | `APP 5 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP1 PM` conf=0.70 |
-| July-Dec 2026 | O | `APP 5 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CMH Clinic APP2 AM` conf=0.70 |
-| July-Dec 2026 | P | `MD (AM) Available` | `MD (AM) Available` | alias | position drift; schema expected `CMH Clinic APP2 PM` here |
-| July-Dec 2026 | Q | `MD (PM) - Stress Echo (Running Test)` | `MD (PM) - Stress Echo (Running Test)` | alias | position drift; schema expected `MD (AM) Available` here |
-| July-Dec 2026 | R | `APP 3 BRK Clinic AM` | `MD (PM) - Stress Echo (Running Test)` | unknown | closest=`Inpatient APP2 AM` conf=0.56 |
-| July-Dec 2026 | S | `APP 3 BRK Clinic PM` | `BRK APP1 (0810-0850)` | unknown | closest=`Inpatient APP2 PM` conf=0.56 |
-| July-Dec 2026 | T | `APP 7` | `APP 7` | alias | position drift; schema expected `BRK APP1 (1230-1600)` here |
-| July-Dec 2026 | U | `APP 6 Cath AM*` | `CATH AM` | fuzzy | closest=`Cath APP AM` conf=0.67 |
-| July-Dec 2026 | V | `APP 6 Cath PM*` | `CATH PM` | fuzzy | closest=`Cath APP PM` conf=0.67 |
-| July-Dec 2026 | W | `LCW` | `LCW` | alias | position drift; schema expected `APP 7` here |
-| July-Dec 2026 | X | `Admin` | `Admin` | alias | position drift; schema expected `LCW` here |
+| July-Dec 2026 | E | `APP 2 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`Inpatient APP2 AM` conf=0.70 |
+| July-Dec 2026 | F | `APP 2 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`Inpatient APP2 PM` conf=0.70 |
+| July-Dec 2026 | G | `APP 5 CMH Clinic AM` | `CMH Clinic APP1 AM` | fuzzy | closest=`Rotation` conf=0.70 |
+| July-Dec 2026 | H | `APP 5 CMH Clinic PM` | `CMH Clinic APP1 AM` | fuzzy | closest=`CATH AM` conf=0.70 |
+| July-Dec 2026 | I | `MD (AM) Available` | `MD (AM) Available` | alias | position drift; schema expected `CATH PM` here |
+| July-Dec 2026 | J | `MD (PM) - Stress Echo (Running Test)` | `MD (PM) - Stress Echo (Running Test)` | alias | position drift; schema expected `Night Cath` here |
+| July-Dec 2026 | K | `APP 3 BRK Clinic AM` | `Diagnostic AM` | unknown | closest=`Inpatient APP2 AM` conf=0.56 |
+| July-Dec 2026 | L | `APP 3 BRK Clinic PM` | `Diagnostic PM` | unknown | closest=`Inpatient APP2 PM` conf=0.56 |
+| July-Dec 2026 | M | `APP 7` | `APP 7` | alias | position drift; schema expected `CMH Clinic APP1 AM` here |
+| July-Dec 2026 | N | `APP 6 Cath AM*` | `CATH AM` | fuzzy | closest=`CMH Clinic APP1 PM` conf=0.67 |
+| July-Dec 2026 | O | `APP 6 Cath PM*` | `CATH PM` | fuzzy | closest=`CMH Clinic APP2 AM` conf=0.67 |
+| July-Dec 2026 | P | `LCW` | `LCW` | alias | position drift; schema expected `CMH Clinic APP2 PM` here |
+| July-Dec 2026 | Q | `Admin` | `Admin` | alias | position drift; schema expected `MD (AM) Available` here |
 | Jan-June 2027 | C | `MD` | `Inpatient MD` | alias |  |
 | Jan-June 2027 | D | `APP 1 Inpatient` | `Inpatient APP1` | fuzzy | closest=`Inpatient APP1` conf=0.97 |
 | Jan-June 2027 | E | `APP 4 Inpatient AM` | `Inpatient APP2 AM` | fuzzy | closest=`Inpatient APP2 AM` conf=0.91 |
@@ -116,9 +110,21 @@ hardcoded provider (own .ics + master inclusion).
 
 | Sheet | Col | Raw | Expected | Status |
 |---|---|---|---|---|
-| July-Dec 2026 | Z | `MA` | `` | alias |
-| July-Dec 2026 | AA | `NF` | `` | alias |
-| July-Dec 2026 | AB | `MH` | `` | alias |
+| July-Dec 2026 | S | `MA` | `` | alias |
+| July-Dec 2026 | T | `NF` | `` | alias |
+| July-Dec 2026 | U | `MH` | `` | alias |
+| July-Dec 2026 | V | `FI` | `` | alias |
+| July-Dec 2026 | W | `SJ` | `` | alias |
+| July-Dec 2026 | X | `KK` | `` | alias |
+| July-Dec 2026 | Y | `SM` | `` | alias |
+| July-Dec 2026 | Z | `JAM` | `` | alias |
+| July-Dec 2026 | AA | `AB` | `` | alias |
+| July-Dec 2026 | AB | `RM` | `` | alias |
+| July-Dec 2026 | AC | `BN` | `FI` | alias |
+| July-Dec 2026 | AD | `EO` | `SJ` | alias |
+| July-Dec 2026 | AE | `KO` | `KK` | alias |
+| July-Dec 2026 | AF | `MP` | `SM` | alias |
+| July-Dec 2026 | AG | `JS` | `JAM` | alias |
 | Jan-June 2027 | AA | `MA` | `` | alias |
 | Jan-June 2027 | AB | `NF` | `` | alias |
 | Jan-June 2027 | AC | `MH` | `FI` | alias |
