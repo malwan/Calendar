@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-18 03:05:07
+- **Timestamp:** 2026-10-19 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 1 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -24,7 +24,7 @@
 | Hanrahan | 416 |
 | Iqbal | 496 |
 | Janus | 342 |
-| Kashyap | 425 |
+| Kashyap | 429 |
 | Kohl | 138 |
 | Marin | 2 |
 | Marmer | 451 |
@@ -38,7 +38,7 @@
 | Schaeve | 281 |
 | **MasterSchedule** | 3389 |
 
-Total leave/vacation events (across all sheets): 118
+Total leave/vacation events (across all sheets): 122
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 129
 
 ## Long call weekend (LCW) row issues
