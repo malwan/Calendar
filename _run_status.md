@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-23 03:05:04
+- **Timestamp:** 2026-10-24 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 1 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -19,23 +19,23 @@
 | Calendar | Events |
 |---|---|
 | Atzenhoefer | 440 |
-| Brochtrup | 280 |
+| Brochtrup | 285 |
 | Fabry | 446 |
 | Hanrahan | 417 |
 | Iqbal | 496 |
 | Janus | 342 |
-| Kashyap | 428 |
+| Kashyap | 431 |
 | Kohl | 138 |
 | Marin | 2 |
 | Marmer | 453 |
-| Martin | 323 |
+| Martin | 320 |
 | Mauer | 2 |
 | Maurer | 270 |
-| Novak | 275 |
+| Novak | 268 |
 | Organ | 76 |
-| Ortman | 283 |
+| Ortman | 285 |
 | Povlich | 287 |
-| Schaeve | 281 |
+| Schaeve | 279 |
 | **MasterSchedule** | 3387 |
 
 Total leave/vacation events (across all sheets): 127
@@ -89,12 +89,12 @@ hardcoded provider (own .ics + master inclusion).
 | Jan-June 2027 | F | `APP 4 Inpatient  PM` | `Inpatient APP2 PM` | alias |  |
 | Jan-June 2027 | H | `AM` | `CATH AM` | alias |  |
 | Jan-June 2027 | I | `PM` | `CATH PM` | alias |  |
-| Jan-June 2027 | M | `APP 2 CMH Clinic AM` | `CMH Clinic APP1 AM` | alias |  |
-| Jan-June 2027 | N | `APP 2 CMH Clinic PM` | `CMH Clinic APP1 PM` | alias |  |
-| Jan-June 2027 | O | `APP 5 CMH Clinic AM` | `CMH Clinic APP2 AM` | alias |  |
-| Jan-June 2027 | P | `APP 5 CMH Clinic PM` | `CMH Clinic APP2 PM` | alias |  |
-| Jan-June 2027 | S | `APP 3 BRK Clinic` | `BRK APP1 (0810-0850)` | alias |  |
-| Jan-June 2027 | T | `APP 3 BRK Clinic` | `BRK APP1 (1230-1600)` | alias |  |
+| Jan-June 2027 | M | `APP 2 CMH Clinic AM  *` | `CMH Clinic APP1 AM` | alias |  |
+| Jan-June 2027 | N | `APP 2 CMH Clinic PM *` | `CMH Clinic APP1 PM` | alias |  |
+| Jan-June 2027 | O | `APP 5 CMH Clinic AM *` | `CMH Clinic APP2 AM` | alias |  |
+| Jan-June 2027 | P | `APP 5 CMH Clinic PM *` | `CMH Clinic APP2 PM` | alias |  |
+| Jan-June 2027 | S | `APP 3 BRK Clinic *` | `BRK APP1 (0810-0850)` | alias |  |
+| Jan-June 2027 | T | `APP 3 BRK Clinic *` | `BRK APP1 (1230-1600)` | alias |  |
 | Jan-June 2027 | U | `APP 7 AM` | `APP 7 AM` | alias | position drift; schema expected `Cath APP AM` here |
 | Jan-June 2027 | V | `APP 7 PM` | `APP 7 PM` | alias | position drift; schema expected `Cath APP PM` here |
 | Jan-June 2027 | W | `Cath APP 6 AM` | `Cath APP AM` | alias | position drift; schema expected `APP 7` here |
