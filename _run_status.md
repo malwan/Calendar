@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-24 03:05:04
+- **Timestamp:** 2026-10-25 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 1 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -18,25 +18,25 @@
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 440 |
-| Brochtrup | 285 |
-| Fabry | 446 |
-| Hanrahan | 417 |
+| Atzenhoefer | 447 |
+| Brochtrup | 274 |
+| Fabry | 447 |
+| Hanrahan | 416 |
 | Iqbal | 496 |
-| Janus | 342 |
-| Kashyap | 431 |
-| Kohl | 138 |
-| Marin | 2 |
+| Janus | 397 |
+| Kashyap | 490 |
+| Kohl | 145 |
+| Marin | 1 |
 | Marmer | 453 |
-| Martin | 320 |
-| Mauer | 2 |
-| Maurer | 270 |
-| Novak | 268 |
-| Organ | 76 |
-| Ortman | 285 |
-| Povlich | 287 |
+| Martin | 382 |
+| Mauer | 0 |
+| Maurer | 271 |
+| Novak | 273 |
+| Organ | 79 |
+| Ortman | 275 |
+| Povlich | 294 |
 | Schaeve | 279 |
-| **MasterSchedule** | 3387 |
+| **MasterSchedule** | 3569 |
 
 Total leave/vacation events (across all sheets): 127
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 129
