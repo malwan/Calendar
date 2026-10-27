@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-26 03:05:04
+- **Timestamp:** 2026-10-27 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 1 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -18,10 +18,10 @@
 
 | Calendar | Events |
 |---|---|
-| Atzenhoefer | 447 |
+| Atzenhoefer | 446 |
 | Brochtrup | 274 |
-| Fabry | 447 |
-| Hanrahan | 416 |
+| Fabry | 446 |
+| Hanrahan | 418 |
 | Iqbal | 496 |
 | Janus | 397 |
 | Kashyap | 490 |
