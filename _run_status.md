@@ -1,8 +1,8 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-10-27 03:05:04
+- **Timestamp:** 2026-10-28 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
-- **Status:** 1 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
+- **Status:** 2 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
 ## Header resolution counts
 
@@ -20,14 +20,14 @@
 |---|---|
 | Atzenhoefer | 446 |
 | Brochtrup | 274 |
-| Fabry | 446 |
-| Hanrahan | 418 |
+| Fabry | 444 |
+| Hanrahan | 419 |
 | Iqbal | 496 |
 | Janus | 397 |
-| Kashyap | 490 |
+| Kashyap | 491 |
 | Kohl | 145 |
 | Marin | 1 |
-| Marmer | 453 |
+| Marmer | 454 |
 | Martin | 382 |
 | Mauer | 0 |
 | Maurer | 271 |
@@ -38,8 +38,8 @@
 | Schaeve | 279 |
 | **MasterSchedule** | 3569 |
 
-Total leave/vacation events (across all sheets): 127
-Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 129
+Total leave/vacation events (across all sheets): 129
+Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 128
 
 ## Long call weekend (LCW) row issues
 
@@ -48,6 +48,7 @@ into an OFF day cleanly. Rows listed as DROPPED produced no event.
 
 | Sheet | Row | Issue | Detail |
 |---|---|---|---|
+| Jan-June 2027 | 76 | no date in the row below the LCW row | row 77 column B is empty or not a date — OFF day DROPPED |
 | Jan-June 2028 | 6 | empty provider cell in column D | week of 2027-12-27 — no OFF event created |
 
 ## Dynamic provider roster (provider_registry.json)
