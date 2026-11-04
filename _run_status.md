@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-11-03 03:05:03
+- **Timestamp:** 2026-11-04 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 2 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -25,15 +25,15 @@
 | Iqbal | 496 |
 | Janus | 395 |
 | Kashyap | 492 |
-| Kohl | 145 |
+| Kohl | 144 |
 | Marin | 1 |
 | Marmer | 454 |
 | Martin | 382 |
 | Mauer | 0 |
 | Maurer | 272 |
 | Novak | 276 |
-| Organ | 80 |
-| Ortman | 279 |
+| Organ | 79 |
+| Ortman | 280 |
 | Povlich | 298 |
 | Schaeve | 278 |
 | **MasterSchedule** | 3568 |
