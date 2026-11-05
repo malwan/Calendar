@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-11-04 03:05:04
+- **Timestamp:** 2026-11-05 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 2 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -32,13 +32,13 @@
 | Mauer | 0 |
 | Maurer | 272 |
 | Novak | 276 |
-| Organ | 79 |
+| Organ | 80 |
 | Ortman | 280 |
 | Povlich | 298 |
 | Schaeve | 278 |
 | **MasterSchedule** | 3568 |
 
-Total leave/vacation events (across all sheets): 149
+Total leave/vacation events (across all sheets): 150
 Total "-OFF- Long Call Weekend" events (across all sheets, deduped): 128
 
 ## Long call weekend (LCW) row issues
@@ -170,12 +170,13 @@ hardcoded provider (own .ics + master inclusion).
 | July-Dec 2026 | AG | `SM` | `JAM` | alias |
 | July-Dec 2026 | AH | `JAM` | `AB` | alias |
 | July-Dec 2026 | AI | `AB` | `RM` | alias |
-| July-Dec 2026 | AJ | `RM` | `BN` | alias |
-| July-Dec 2026 | AK | `BN` | `EO` | alias |
-| July-Dec 2026 | AL | `EO` | `KO` | alias |
-| July-Dec 2026 | AM | `KO` | `MP` | alias |
-| July-Dec 2026 | AN | `MP` | `JS` | alias |
-| July-Dec 2026 | AO | `JS` | `` | alias |
+| July-Dec 2026 | AJ | `IK` | `BN` | alias |
+| July-Dec 2026 | AK | `RM` | `EO` | alias |
+| July-Dec 2026 | AL | `BN` | `KO` | alias |
+| July-Dec 2026 | AM | `EO` | `MP` | alias |
+| July-Dec 2026 | AN | `KO` | `JS` | alias |
+| July-Dec 2026 | AO | `MP` | `` | alias |
+| July-Dec 2026 | AP | `JS` | `` | alias |
 | Jan-June 2027 | AA | `MA` | `` | alias |
 | Jan-June 2027 | AB | `NF` | `` | alias |
 | Jan-June 2027 | AC | `MH` | `FI` | alias |
@@ -185,12 +186,13 @@ hardcoded provider (own .ics + master inclusion).
 | Jan-June 2027 | AG | `SM` | `JAM` | alias |
 | Jan-June 2027 | AH | `JAM` | `AB` | alias |
 | Jan-June 2027 | AI | `AB` | `RM` | alias |
-| Jan-June 2027 | AJ | `RM` | `BN` | alias |
-| Jan-June 2027 | AK | `BN` | `EO` | alias |
-| Jan-June 2027 | AL | `EO` | `KO` | alias |
-| Jan-June 2027 | AM | `KO` | `MP` | alias |
-| Jan-June 2027 | AN | `MP` | `JS` | alias |
-| Jan-June 2027 | AO | `JS` | `` | alias |
+| Jan-June 2027 | AJ | `IK` | `BN` | alias |
+| Jan-June 2027 | AK | `RM` | `EO` | alias |
+| Jan-June 2027 | AL | `BN` | `KO` | alias |
+| Jan-June 2027 | AM | `EO` | `MP` | alias |
+| Jan-June 2027 | AN | `KO` | `JS` | alias |
+| Jan-June 2027 | AO | `MP` | `` | alias |
+| Jan-June 2027 | AP | `JS` | `` | alias |
 | July-Dec 2027 | AA | `MA` | `` | alias |
 | July-Dec 2027 | AB | `NF` | `` | alias |
 | July-Dec 2027 | AC | `MH` | `FI` | alias |
