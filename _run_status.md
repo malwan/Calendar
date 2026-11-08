@@ -1,6 +1,6 @@
 # Calendar Export — Last Run Status
 
-- **Timestamp:** 2026-11-07 03:05:04
+- **Timestamp:** 2026-11-08 03:05:04
 - **Sheets processed:** July-Dec 2026, Jan-June 2027, July-Dec 2027, Jan-June 2028, July-Dec 2028
 - **Status:** 2 LONG CALL WEEKEND ROW ISSUE(S) — see _HEADER_ALERTS.txt
 
@@ -202,12 +202,13 @@ hardcoded provider (own .ics + master inclusion).
 | July-Dec 2027 | AG | `SM` | `JAM` | alias |
 | July-Dec 2027 | AH | `JAM` | `AB` | alias |
 | July-Dec 2027 | AI | `AB` | `RM` | alias |
-| July-Dec 2027 | AJ | `RM` | `BN` | alias |
-| July-Dec 2027 | AK | `BN` | `EO` | alias |
-| July-Dec 2027 | AL | `EO` | `KO` | alias |
-| July-Dec 2027 | AM | `KO` | `MP` | alias |
-| July-Dec 2027 | AN | `MP` | `JS` | alias |
-| July-Dec 2027 | AO | `JS` | `` | alias |
+| July-Dec 2027 | AJ | `IK` | `BN` | alias |
+| July-Dec 2027 | AK | `RM` | `EO` | alias |
+| July-Dec 2027 | AL | `BN` | `KO` | alias |
+| July-Dec 2027 | AM | `EO` | `MP` | alias |
+| July-Dec 2027 | AN | `KO` | `JS` | alias |
+| July-Dec 2027 | AO | `MP` | `` | alias |
+| July-Dec 2027 | AP | `JS` | `` | alias |
 | Jan-June 2028 | AA | `MA` | `` | alias |
 | Jan-June 2028 | AB | `NF` | `` | alias |
 | Jan-June 2028 | AC | `MH` | `FI` | alias |
@@ -217,12 +218,13 @@ hardcoded provider (own .ics + master inclusion).
 | Jan-June 2028 | AG | `SM` | `JAM` | alias |
 | Jan-June 2028 | AH | `JAM` | `AB` | alias |
 | Jan-June 2028 | AI | `AB` | `RM` | alias |
-| Jan-June 2028 | AJ | `RM` | `BN` | alias |
-| Jan-June 2028 | AK | `BN` | `EO` | alias |
-| Jan-June 2028 | AL | `EO` | `KO` | alias |
-| Jan-June 2028 | AM | `KO` | `MP` | alias |
-| Jan-June 2028 | AN | `MP` | `JS` | alias |
-| Jan-June 2028 | AO | `JS` | `` | alias |
+| Jan-June 2028 | AJ | `IK` | `BN` | alias |
+| Jan-June 2028 | AK | `RM` | `EO` | alias |
+| Jan-June 2028 | AL | `BN` | `KO` | alias |
+| Jan-June 2028 | AM | `EO` | `MP` | alias |
+| Jan-June 2028 | AN | `KO` | `JS` | alias |
+| Jan-June 2028 | AO | `MP` | `` | alias |
+| Jan-June 2028 | AP | `JS` | `` | alias |
 | July-Dec 2028 | AA | `MA` | `` | alias |
 | July-Dec 2028 | AB | `NF` | `` | alias |
 | July-Dec 2028 | AC | `MH` | `FI` | alias |
@@ -232,9 +234,10 @@ hardcoded provider (own .ics + master inclusion).
 | July-Dec 2028 | AG | `SM` | `JAM` | alias |
 | July-Dec 2028 | AH | `JAM` | `AB` | alias |
 | July-Dec 2028 | AI | `AB` | `RM` | alias |
-| July-Dec 2028 | AJ | `RM` | `BN` | alias |
-| July-Dec 2028 | AK | `BN` | `EO` | alias |
-| July-Dec 2028 | AL | `EO` | `KO` | alias |
-| July-Dec 2028 | AM | `KO` | `MP` | alias |
-| July-Dec 2028 | AN | `MP` | `JS` | alias |
-| July-Dec 2028 | AO | `JS` | `` | alias |
+| July-Dec 2028 | AJ | `IK` | `BN` | alias |
+| July-Dec 2028 | AK | `RM` | `EO` | alias |
+| July-Dec 2028 | AL | `BN` | `KO` | alias |
+| July-Dec 2028 | AM | `EO` | `MP` | alias |
+| July-Dec 2028 | AN | `KO` | `JS` | alias |
+| July-Dec 2028 | AO | `MP` | `` | alias |
+| July-Dec 2028 | AP | `JS` | `` | alias |
